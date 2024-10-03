@@ -1,16 +1,18 @@
-### Hi there 👋
+---
+# Hi there 👋, I'm Shibin Rasheed
 
-<!--
-**ShibinRasheed/ShibinRasheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Developer
 
-Here are some ideas to get you started:
+I'm a passionate Front-End Developer with expertise in building responsive and interactive web applications using modern frameworks and tools. Currently, I'm working on sharpening my skills to become an expert front-end developer while exploring backend development and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🌱 I’m currently learning Backend Development, AI, and Data Structures & Algorithms (DSA).
+- 🔨 Experienced in **React.js**, **Astro.js**, **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS**.
+- 🌐 Currently focused on enhancing my front-end development skills and building sleek, scalable web applications.
+
+### 🔧 Technologies & Tools
+- **Frontend**: React.js, Astro.js, HTML, CSS, JavaScript, Tailwind CSS
+- **Also Know** : C, Java, Node.js, Express , MongoDB, TypeScript 
+- **Learning**: Backend Development, AI, DSA
+
+---

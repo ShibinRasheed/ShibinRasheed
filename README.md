@@ -19,11 +19,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m a pre final year B.Tech CSE student currently making projects in MERN Stack.
 
+- 🎯: Current goal is to have NO ZERO DAYS.
+ 
+-  🔎 Currently learning GoLand
+
 - :seedling: Exploring Web Scrapping and AI.
 
 - :zap: In my free time, I watch podcasts, tech videos and program.
-
-- 🎯: Current goal is to have NO ZERO DAYS. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shibin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ShibinRasheed/)
 

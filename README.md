@@ -21,7 +21,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🎯: Current goal is to have NO ZERO DAYS.
  
--  🔎 Currently learning GoLand
+-  🔎 Currently learning Go
 
 - :seedling: Exploring Web Scrapping and AI.
 

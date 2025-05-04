@@ -23,11 +23,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  
 -  🔎 Currently learning Go
 
-- :seedling: Exploring Web Scrapping and AI.
-
 - :zap: In my free time, I watch podcasts, tech videos and program.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shibin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ShibinRasheed/)
+
+- 😄 Here is a hobby project I did in 2 days : https://wishlist2025.netlify.app/ 
 
 ---
 

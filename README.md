@@ -18,8 +18,6 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who likes to build stuff.
 
 - :telescope: I’m a pre final year B.Tech CSE student currently making projects in MERN Stack.
-
-- 🎯: Current goal is to have NO ZERO DAYS.
  
 -  🔎 Currently learning Go
 

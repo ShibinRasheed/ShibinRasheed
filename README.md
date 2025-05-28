@@ -19,7 +19,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m a final year B.Tech CSE student currently making projects in MERN Stack.
  
--  🔎 Currently learning Go
+-  🔎 Currently learning Three.js
 
 - :zap: In my free time, I watch podcasts, tech videos and program.
 
